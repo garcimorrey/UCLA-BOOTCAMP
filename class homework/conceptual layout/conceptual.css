@@ -1,0 +1,36 @@
+body {
+background: white;
+width: 890px;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+}
+
+header {
+    text-align: left;
+}
+
+
+.box1 {
+background: lightgrey;
+position: fixed;
+height: 100px;
+width: 140px;
+top: 0px;
+left: 300px;
+}
+
+.mainbox {
+    background: lightgrey;
+    position: relative;
+    height: 200px;
+}
+
+.box2 {
+background: darkgrey;
+position: absolute;
+height: 90px;
+width: 200px;
+right: -40px;
+bottom: 0px;
+}
