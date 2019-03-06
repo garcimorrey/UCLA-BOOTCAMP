@@ -1,0 +1,21 @@
+body {
+    background: lightgrey;
+    color: green;
+    width: 1400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    transform: rotate(90deg);
+    width: 200px;
+    height: auto;
+}
+
+#header {
+    display: fixed;
+    background: white;
+    width: 100%;
+    top: 0px;
+}
